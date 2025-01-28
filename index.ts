@@ -20,7 +20,7 @@ for (const theme of themes) {
 
 	await Bun.write(`./themes/${theme.split("\\")[0]}/README.md`, readme);
 
-    themesMarkdown += `## [${name}](./themes/${theme.split("\\")[0]})\n\n[![${theme.split("\\")[0]} Preview](./${theme.split("\\")[0]}/img1.png)](./themes/${theme.split("\\")[0]})\n\n`;
+    themesMarkdown += `## [${name}](./${theme.split("\\")[0]})\n\n[![${theme.split("\\")[0]} Preview](./${theme.split("\\")[0]}/img1.png)](./${theme.split("\\")[0]})\n\n`;
     
 }
 
