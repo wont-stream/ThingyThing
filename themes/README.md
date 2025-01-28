@@ -1,3 +1,12 @@
-* [Discord (Legacy)](./themes/discordLegacy/README.md)
-* [Discord](./themes/discord/README.md)
-* [Black Cherry](./themes/blackCherry/README.md)
+## [Discord (Legacy)](./themes/discordLegacy)
+
+![img1.png](./img1.png)
+
+## [Discord](./themes/discord)
+
+![img1.png](./img1.png)
+
+## [Black Cherry](./themes/blackCherry)
+
+![img1.png](./img1.png)
+

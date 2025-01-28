@@ -19,8 +19,9 @@ for (const theme of themes) {
 	const readme = `# ${name}\n\n${imagesMarkdown}`;
 
 	await Bun.write(`./themes/${theme.split("\\")[0]}/README.md`, readme);
-
-    themesMarkdown += `* [${name}](./themes/${theme.split("\\")[0]}/README.md)\n`;
+    
+    themesMarkdown += `## [${name}](./themes/${theme.split("\\")[0]})\n\n${imagesMarkdown.split("\n")[0]}\n\n`;
+    
 }
 
 await Bun.write("./themes/README.md", themesMarkdown);
