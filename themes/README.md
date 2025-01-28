@@ -1,12 +1,12 @@
 ## [Discord (Legacy)](./themes/discordLegacy)
 
-![img1.png](./img1.png)
+[![discordLegacy Preview](./discordLegacy}/img1.png)](./themes/discordLegacy)
 
 ## [Discord](./themes/discord)
 
-![img1.png](./img1.png)
+[![discord Preview](./discord}/img1.png)](./themes/discord)
 
 ## [Black Cherry](./themes/blackCherry)
 
-![img1.png](./img1.png)
+[![blackCherry Preview](./blackCherry}/img1.png)](./themes/blackCherry)
 
