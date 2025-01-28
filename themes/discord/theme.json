@@ -1,0 +1,12 @@
+{
+    "id": "wontStream_thingyThing_discord",
+    "name": "Discord",
+    "colors": {
+      "primary": "#5865f2",
+      "secondary": "#454fbf",
+      "background": "#313338",
+      "surface": "#2b2d31",
+      "text": "#dbdee1",
+      "textSecondary": "#949ba4"
+    }
+  }

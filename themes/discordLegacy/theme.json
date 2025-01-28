@@ -1,0 +1,12 @@
+{
+    "id": "wontStream_thingyThing_discordLegacy",
+    "name": "Discord (Legacy)",
+    "colors": {
+      "primary": "#7289DA",
+      "secondary": "#4E5D94",
+      "background": "#313338",
+      "surface": "#2b2d31",
+      "text": "#dbdee1",
+      "textSecondary": "#949ba4"
+    }
+  }
