@@ -1,0 +1,12 @@
+{
+    "id": "wontStream_thingyThing_blackCherry",
+    "name": "Black Cherry",
+    "colors": {
+        "primary": "#ad2831",
+        "secondary": "#640d14",
+        "background": "#111111",
+        "surface": "#181818",
+        "text": "#dedede",
+        "textSecondary": "#a6a6a6"
+    }
+}
