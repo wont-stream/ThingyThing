@@ -1,0 +1,12 @@
+{
+    "id": "mooder_eyecandy",
+    "name": "Eye Candy",
+    "colors": {
+      "primary": "#C3A16E",
+      "secondary": "#C88EAD",
+      "background": "#33323C",
+      "surface": "#3B3A45",
+      "text": "#E8E8EA",
+      "textSecondary": "#CEB0CD"
+    }
+  }
