@@ -1,3 +1,7 @@
+## [Eye Candy](./eyeCandy)
+
+[![eyeCandy Preview](./eyeCandy/img1.png)](./eyeCandy)
+
 ## [Discord (Legacy)](./discordLegacy)
 
 [![discordLegacy Preview](./discordLegacy/img1.png)](./discordLegacy)
